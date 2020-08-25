@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	**Proffy:** <br/>
+	Proffy: <br/>
 	Sua plataforma de estudos online 🚀 
 </h1>
 
