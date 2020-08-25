@@ -1,3 +1,10 @@
+<h1 align="center"> 
+	**Proffy:** <br/>
+	Sua plataforma de estudos online 🚀 
+</h1>
+
+---
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jacksonsantin/proffy?color=%238257E5">
 
@@ -8,7 +15,6 @@
   <a href="https://github.com/JacksonSantin/proffy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jacksonsantin/proffy?color=%238257E5">
   </a>
-    
    
    <a href="https://github.com/JacksonSantin/proffy/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jacksonsantin/proffy?color=%238257E5">
@@ -22,10 +28,6 @@
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/36802445/89643053-536e1b00-d88b-11ea-9c13-81c2653cc917.png" />
 </h1>
-
-<h4 align="center"> 
-	🚧  Proffy ♻️ Finalizado 🚀 🚧
-</h4>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
