@@ -156,6 +156,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+
 Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jackson-dhanyel-santin/)
+
+Consulte informações sobre a licença do projeto [MIT](https://github.com/JacksonSantin/proffy/blob/master/LICENSE).
 
 ---
