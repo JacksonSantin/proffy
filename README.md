@@ -148,7 +148,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQG3v_adxHoBGg/profile-displayphoto-shrink_400_400/0?e=1603929600&v=beta&t=YoHMJ5O4RdiJ3dB-e2E_O_Ax-EO7C4wGzRTd3DN1JF8" width="100px;" alt=""/><br /><sub><b>Jackson Dhanyel Santin</b></sub>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/30778051?v=4" width="100px;" alt=""/><br /><sub><b>Jackson Dhanyel Santin</b></sub>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-dhanyel-santin/)](https://www.linkedin.com/in/jackson-dhanyel-santin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhanyelJack)](https://twitter.com/DhanyelJack)
